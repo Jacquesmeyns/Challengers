@@ -4,7 +4,7 @@
   <p><strong>Manage the mission. Challenge history. Face the consequences.</strong></p>
 </div>
 
-<p align="center">*Challengers is a space mission management and strategy game developed for the NASA Space Apps Challenge.*</p>
+<p align="center">**Challengers is a space mission management and strategy game developed for the NASA Space Apps Challenge.**</p>
 
 ---
 
