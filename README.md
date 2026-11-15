@@ -1,10 +1,10 @@
+<div align="center">
+  <img src="Assets/Art/challengers_no_bg.png" alt="Challengers Logo" width="400">
 
+  <p><strong>Manage the mission. Challenge history. Face the consequences.</strong></p>
+</div>
 
-# 🚀 CHALLENGERS 🚀
-
-**Manage the mission. Challenge history. Face the consequences.**
-
-*Challengers is a space mission management and strategy game developed for the NASA Space Apps Challenge.*
+<p align="center"><strong>Challengers is a space mission management and strategy game developed for the NASA Space Apps Challenge.<strong></p>
 
 ---
 
